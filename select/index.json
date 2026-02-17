@@ -1,0 +1,56 @@
+{
+  "version": 1,
+  "base_track": "毒林檎",
+  "base_artist": "DECO*27",
+  "createdAt": "2026-02-17T02:37:34.811477Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "毒林檎",
+      "artist": "DECO*27",
+      "has_synced": true,
+      "path": "select/01_毒林檎_DECO_27.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "毒林檎",
+      "artist": "DECO*27",
+      "has_synced": true,
+      "path": "select/02_毒林檎_DECO_27.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "毒林檎 (Dokuringo)",
+      "artist": "DECO*27",
+      "has_synced": true,
+      "path": "select/03_毒林檎_(Dokuringo)_DECO_27.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "毒林檎",
+      "artist": "DECO∗27",
+      "has_synced": true,
+      "path": "select/04_毒林檎_DECO∗27.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "DECO*27 - 毒林檎 feat. 初音ミク",
+      "artist": "DECO*27",
+      "has_synced": true,
+      "path": "select/05_DECO_27_-_毒林檎_feat._初音ミク_DECO_27.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "毒林檎",
+      "artist": "DECO*27",
+      "has_synced": false,
+      "path": "select/pl_01_毒林檎_DECO_27.txt"
+    }
+  ]
+}
